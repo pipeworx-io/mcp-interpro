@@ -3,7 +3,7 @@
   "name": "io.github.pipeworx-io/interpro",
   "title": "Interpro",
   "description": "InterPro MCP (EBI) — protein family / domain / functional-site classification.",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "websiteUrl": "https://pipeworx.io/packs/interpro",
   "repository": {
     "url": "https://github.com/pipeworx-io/mcp-interpro",
