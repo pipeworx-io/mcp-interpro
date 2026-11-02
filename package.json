@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-interpro",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "InterPro MCP (EBI) — protein family / domain / functional-site classification.",
   "type": "module",
   "main": "lib/index.js",
@@ -27,7 +27,7 @@
     "mode": "gateway",
     "slug": "interpro",
     "gatewaySlug": "interpro",
-    "sourceHash": "v1-6cc1ad595630669c5abf6c4b59a3fbbf38e5350350e4676c4cb00ee27baf939f",
-    "sourceCommit": "4844029e402d6bd2fe735add8abf6d46735f8ed5"
+    "sourceHash": "v1-302ecdfce1c5e2ba2be25c13ecbfcf517b4333472f30dff9b5972879c421fdb2",
+    "sourceCommit": "0ca9712c0ac03bb0121cc7e81b202d0c45ac02ca"
   }
 }
